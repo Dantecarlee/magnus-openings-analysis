@@ -24,3 +24,5 @@ Then open your browser at `http://localhost:8501`, select white or black and wai
 - Lichess API
 - pandas
 - Streamlit
+
+  ![App screenshot](Captura%20de%20pantalla%202026-05-28%20172438.png)

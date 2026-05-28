@@ -11,10 +11,10 @@ For each combination of first and second move, the app displays:
 
 ## How to run
 
-\```bash
+```bash
 pip install streamlit requests pandas
 streamlit run magnus_openings.py
-\```
+```
 
 Then open your browser at `http://localhost:8501`, select white or black and wait for the data to load (~1-2 minutes).
 
